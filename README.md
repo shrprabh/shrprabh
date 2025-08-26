@@ -1,190 +1,359 @@
-<!-- Profile README for ---
+<!-- 
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+-->
 
 <div align="center">
-  <h2>🏆 Coding Stats & Achievements</h2>
-  <img src="https://github-readme-st---
-
-## 🏅 Certifications & Awards
-
-- **Presented BilboMD (2024) and LDMS (2025) research poster** at LBNL representing the U.S. Department of Energy
-- **Ranked 5th on Texas Tech University's GeeksforGeeks leaderboard** with 100+ problems solved
-- **Completed 200+ LeetCode challenges** with expertise in algorithms and data structures
-- **Awarded by the University of Michigan Blockchain Club** to attend the Solana SCALE or DIE conference in New York
-- **Graduate School Competitive Scholarship (Year 1) and HTL Scholarship (Year 2)** at Texas Tech University
-- **Terrologic Star Performer (2023)** for designing a cross-application AES encryption solution
-- **Academic Excellence Awards** (2nd, 3rd ranks) in 6th-8th semesters at Maharaja Institute of Technology
-- **AI for Science on Super Computers (Advanced badge)** — certified by Argonne National Laboratory
-- **Amazon AI Practitioner** & **Microsoft Azure Fundamentals (AZ-900)** certificationstats.herokuapp.com/?user=shrprabh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <h1>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrprabh/shrprabh/main/.github/assets/shreyas-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrprabh/shrprabh/main/.github/assets/shreyas-dark.svg">
+      <img alt="Shreyas Prabhakar" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=false&random=false&width=400&height=60&lines=Shreyas+Prabhakar" />
+    </picture>
+  </h1>
+  
+  <h2>🚀 Research Engineer × Full-Stack Developer × AI Specialist</h2>
+  
+  <p>
+    <strong>Lawrence Berkeley National Laboratory</strong> • <strong>Texas Tech University</strong><br/>
+    Building next-generation systems at the intersection of <em>HPC</em>, <em>AI</em>, and <em>Blockchain</em>
+  </p>
 </div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/pshreyasgowda1997?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="400" />
-  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?id=shreyas_prabhakar" alt="GeeksForGeeks Stats" width="400" />
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🔬 Lawrence Berkeley National Laboratory (LBNL)
-**Graduate Student Research Assistant** | May 2024 - Present
-- Designed and implemented secure microservices-aligned account-management modules
-- Built interactive widget plotting 150+ supercomputer metrics, improving efficiency by 80%
-
-### 🏥 Texas Tech University Health Sciences Center
-**Software Development Intern** | April 2024 - Sep. 2024
-- Collaborated on CRM development using SignalR, EF Core, jQuery, and SQL
-- Implemented real-time WebSocket notifications with comment-enabled reviews
-
-### 💻 Terrologic
-**Software Engineer II** | Oct. 2021 - Aug. 2023
-- Developed real-time telecom web app for Fujitsu using Angular, Leaflet.js, and Highcharts
-- Designed AES encryption mechanism across 5+ applications, earning Star Performer recognition
-
-### 🔧 Infosys
-**System Engineer** | Jan. 2020 - Oct. 2021
-- Architected PEAN-stack Job Rotation Portal PoC in 14 days to secure client approval
-- Ranked 3rd among 350 trainees in Microsoft Stream trainingcom/shrprabh -->
-<!-- Updated for professional development and career advancement -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I%27m+Shreyas+Prabhakar;Software+Engineer;Full-Stack+Developer;Blockchain+Enthusiast;AI+%26+ML+Enthusiast" alt="Typing SVG" />
-</div>
-
-<h3 align="center">
-  Research Assistant @ Lawrence Berkeley National Laboratory | MS CS @ Texas Tech University | Software Engineer | Prev @TTUHSC @Terralogic @Infosys 
-</h3>
-
-<p align="center">
-  <b>HPC × AI × Full-Stack × Blockchain</b> — Building performance tooling, secure applications, and blockchain solutions
-</p>
-
-<p align="center">
-  <a href="mailto:shrprabh@ttu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-shrprabh%40ttu.edu-informational?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/shreyasprabhakar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shreyasprabhakar-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://shrprabh.github.io/Shreyas_Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-live-4CAF50?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="https://leetcode.com/u/pshreyasgowda1997/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-pshreyasgowda1997-orange?style=flat-square&logo=leetcode&logoColor=white"></a>
-  <a href="https://auth.geeksforgeeks.org/user/shreyas_prabhakar/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-shreyas__prabhakar-brightgreen?style=flat-square&logo=geeksforgeeks&logoColor=white"></a>
-  <img alt="Location" src="https://img.shields.io/badge/Location-Berkeley, California-red?style=flat-square&logo=googlemaps&logoColor=white">
-</p>
-
----
-
-### What I’m working on
-
-- **AI Foundational and ML Engineer Specity Certification**
-- **Web privacy research** — canvas-fingerprinting & evercookie detection at scale with dashboards.
-- **Full-stack experiments** — React/TypeScript/Vite, MERN apps, and ML notebooks.
-
----
-
----
-
-## 🚀 Featured Projects
-
-| Project                                                                              | Tech Stack                        | Description                                                                                                                                                         |
-| ------------------------------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Credence Learning Platform](https://github.com/shrprabh/Credence)**               | Python, TypeScript, React, Solana | Full-stack app with NLP quiz engine that automates XP accrual for educational content; integrates Solana blockchain to mint soulbound NFTs as immutable credentials |
-| **[Veritas Vitae DApp](https://github.com/shrprabh/Veritas-Vitae-DApp)**             | Rust, TypeScript, React, Solana   | Rust-based Solana smart contracts with Program Derived Addresses for immutable life-ledger entries; React/TypeScript frontend for secure credential verification    |
-| **[CanvasShield](https://github.com/shrprabh/CanvasShield)**                         | JavaScript                        | Detection toolkit for canvas fingerprinting & evercookie behaviors, with reporting                                                                                  |
-| **[ArticulateAI](https://github.com/shrprabh/ArticulateAI)**                         | TypeScript (MERN)                 | Chat application experiments with assistant UX & persistence                                                                                                        |
-| **[StockPredictor-NeuralNet](https://github.com/shrprabh/StockPredictor-NeuralNet)** | Python                            | LSTM-based time-series prediction playground                                                                                                                        |
-| **[BraTS-PolypSegmentation](https://github.com/shrprabh/BraTS-PolypSegmentation)**   | Python, Keras                     | Medical image segmentation (DUCK-Net) exploration & results                                                                                                         |
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Databases
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Frameworks & Libraries
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-</div>
-
----
-
-## 🎓 Education
-
-- **M.S., Computer Science (CGPA: 3.75)** — Texas Tech University, 2023–2025
-- **B.E., Computer Science** — Maharaja Institute of Technology, 2015–2019
-
----
-
-### Certifications & awards
-
-- **Argonne National Laboratory Certified: AI for Science on Super Computers (Advanced Badge)**
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **Terralogic “The Star”** — recognition for ownership & impact
-
----
-
-## 📫 Connect With Me
 
 <div align="center">
   <a href="mailto:shrprabh@ttu.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/shreyasprabhakar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/shrprabh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://shrprabh.github.io/Shreyas_Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://leetcode.com/u/pshreyasgowda1997/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/shreyas_prabhakar/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </div>
 
+<br/>
+
+## 📊 Executive Summary
+
+<table>
+  <tr>
+    <td><strong>🎯 Current Focus</strong></td>
+    <td>High-Performance Computing research, AI/ML systems, and secure blockchain applications</td>
+  </tr>
+  <tr>
+    <td><strong>🏢 Position</strong></td>
+    <td>Graduate Research Assistant at Lawrence Berkeley National Laboratory (DOE)</td>
+  </tr>
+  <tr>
+    <td><strong>🎓 Education</strong></td>
+    <td>MS Computer Science, Texas Tech University (GPA: 3.75/4.0)</td>
+  </tr>
+  <tr>
+    <td><strong>💼 Experience</strong></td>
+    <td>4+ years across enterprise software, telecom, healthcare, and research domains</td>
+  </tr>
+  <tr>
+    <td><strong>🌍 Location</strong></td>
+    <td>Berkeley, California • Open to global opportunities</td>
+  </tr>
+</table>
+
 ---
 
+## 💼 Professional Experience
+
+### 🏛️ **Lawrence Berkeley National Laboratory** *— Graduate Research Assistant*
+**May 2024 - Present** • Berkeley, CA • *U.S. Department of Energy*
+
+```typescript
+// Key Achievements
+const achievements = {
+  research: "Presented BilboMD (2024) and LDMS (2025) research posters representing DOE",
+  performance: "Built interactive widgets plotting 150+ supercomputer metrics → 80% efficiency gain",
+  architecture: "Designed secure microservices-aligned account-management modules",
+  impact: "Contributing to national-scale high-performance computing infrastructure"
+};
+```
+
+### 🏥 **Texas Tech University Health Sciences Center** *— Software Development Intern*
+**April 2024 - September 2024** • Lubbock, TX
+
+```csharp
+// Core Contributions
+var contributions = new[] {
+    "CRM development using SignalR, EF Core, jQuery, and SQL Server",
+    "Real-time WebSocket notifications with comment-enabled review system",
+    "Healthcare data management and patient portal enhancements"
+};
+```
+
+### 💻 **Terralogic Software LLC** *— Software Engineer II*
+**October 2021 - August 2023** • Bangalore, India
+
+```javascript
+// Impact Metrics
+const impact = {
+  recognition: "Terralogic Star Performer (2023)",
+  security: "Cross-application AES encryption solution across 5+ applications",
+  telecom: "Real-time web app for Fujitsu using Angular, Leaflet.js, Highcharts",
+  leadership: "Technical ownership and mentoring junior developers"
+};
+```
+
+### 🔧 **Infosys Limited** *— Systems Engineer*
+**January 2020 - October 2021** • Mysore, India
+
+```python
+# Performance Highlights
+performance = {
+    "ranking": "3rd among 350 trainees in Microsoft Stream training",
+    "delivery": "PEAN-stack Job Rotation Portal PoC delivered in 14 days",
+    "client": "Secured client approval through rapid prototyping",
+    "training": "Microsoft .NET full-stack certification"
+}
+```
+
+---
+
+## 🎯 Current Focus
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrprabh&theme=nord&column=7&no-frame=true" />
+
+| 🔬 **Research** | 🚀 **Development** | 📚 **Learning** |
+|:---:|:---:|:---:|
+| HPC Performance Tools | Blockchain DApps | AI/ML Specialization |
+| Privacy-Preserving Systems | Full-Stack Applications | Advanced Certifications |
+| Distributed Computing | Canvas Fingerprinting Detection | System Architecture |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌟 **Flagship Projects**
+
+</div>
+
+| Project | Tech Stack | Description | Impact |
+|:--------|:-----------|:------------|:-------|
+| **[Credence Learning Platform](https://github.com/shrprabh/Credence)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) | Full-stack educational platform with NLP-powered quiz engine and blockchain credential system | 🎓 Immutable NFT certificates |
+| **[Veritas Vitae DApp](https://github.com/shrprabh/Veritas-Vitae-DApp)** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) | Decentralized identity verification system using Program Derived Addresses | 🔒 Secure credential verification |
+| **[CanvasShield](https://github.com/shrprabh/CanvasShield)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Advanced detection toolkit for canvas fingerprinting and evercookie behaviors | 🛡️ Web privacy protection |
+| **[ArticulateAI](https://github.com/shrprabh/ArticulateAI)** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | Experimental chat application with advanced UX patterns and data persistence | 💬 Enhanced user experience |
+| **[StockPredictor-NeuralNet](https://github.com/shrprabh/StockPredictor-NeuralNet)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | LSTM-based time-series prediction system for financial markets | 📈 Predictive analytics |
+| **[BraTS-PolypSegmentation](https://github.com/shrprabh/BraTS-PolypSegmentation)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | Medical image segmentation using DUCK-Net architecture for polyp detection | 🏥 Healthcare AI |
+
+---
+
+## 🛠️ Technical Expertise
+
+<div align="center">
+
+### **Core Technologies**
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Languages**
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+**Frontend**
+<br/><br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+**Backend**
+<br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+**Database & Cloud**
+<br/><br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### **Development Tools & Platforms**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+### **🎯 Performance Metrics**
+
+| Metric | Achievement | Recognition |
+|:-------|:------------|:------------|
+| **🏅 Rankings** | 5th on TTU GeeksforGeeks Leaderboard | 100+ problems solved |
+| **💡 Coding** | 200+ LeetCode challenges completed | Algorithm & DS expertise |
+| **🏆 Awards** | Terralogic Star Performer (2023) | Technical leadership |
+| **🎓 Scholarships** | Graduate School Competitive + HTL Scholarship | Academic excellence |
+| **📊 Training** | 3rd rank among 350 trainees | Microsoft Stream certification |
+
+### **📜 Professional Certifications**
+
+</div>
+
+```yaml
+certifications:
+  national_labs:
+    - title: "AI for Science on Super Computers (Advanced Badge)"
+      issuer: "Argonne National Laboratory"
+      domain: "High-Performance Computing & AI"
+      
+  cloud_platforms:
+    - title: "Microsoft Azure Fundamentals (AZ-900)"
+      issuer: "Microsoft"
+      domain: "Cloud Computing"
+      
+    - title: "Amazon AI Practitioner"
+      issuer: "Amazon Web Services"
+      domain: "Artificial Intelligence"
+      
+  academic:
+    - title: "Academic Excellence Awards (2nd, 3rd ranks)"
+      issuer: "Maharaja Institute of Technology"
+      domain: "Computer Science Engineering"
+```
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+### **Academic Excellence**
+
+</div>
+
+| Institution | Degree | Duration | GPA/Rank | Specialization |
+|:------------|:-------|:---------|:---------|:---------------|
+| **Texas Tech University** | Master of Science in Computer Science | 2023 - 2025 | **3.75/4.0** | High-Performance Computing, AI/ML |
+| **Maharaja Institute of Technology** | Bachelor of Engineering in Computer Science | 2015 - 2019 | **Honors** | Software Engineering, Data Structures |
+
+### **Research & Publications**
+- **BilboMD Research Poster (2024)** - Presented at Lawrence Berkeley National Laboratory
+- **LDMS Research Poster (2025)** - Representing U.S. Department of Energy
+- **Blockchain Conference Attendee** - University of Michigan Blockchain Club scholarship recipient
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrprabh&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=false" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrprabh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrprabh&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrprabh&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrprabh&theme=algolia&hide_border=false" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrprabh&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrprabh&layout=compact&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&hide=css,html" alt="Most Used Languages" height="180"/>
+</div>
+
+### **Coding Challenge Performance**
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/pshreyasgowda1997?theme=nord&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" width="400"/>
+  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?id=shreyas_prabhakar" alt="GeeksForGeeks Stats" width="400"/>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### **Ready to build something amazing together?**
+
+<p>
+🔍 <strong>Open to:</strong> Full-time opportunities, research collaborations, and innovative projects<br/>
+🌟 <strong>Interests:</strong> High-Performance Computing, AI/ML, Blockchain, Full-Stack Development<br/>
+📍 <strong>Location:</strong> Berkeley, CA • Open to global remote opportunities<br/>
+</p>
+
+<br/>
+
+### **Get in Touch**
+
+<a href="mailto:shrprabh@ttu.edu?subject=Hello%20from%20GitHub!">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/shreyasprabhakar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+</a>
+<a href="https://shrprabh.github.io/Shreyas_Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="40"/>
+</a>
+<a href="https://github.com/shrprabh">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shrprabh&color=0A66C2&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+<br/><br/>
+
+---
+
+<p align="center">
+  <em>"Building the future, one line of code at a time."</em><br/>
+  <strong>Shreyas Prabhakar</strong> • Software Engineer & Researcher
+</p>
+
 </div>
