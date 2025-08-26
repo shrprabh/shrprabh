@@ -48,7 +48,7 @@
 <!-- Updated for professional development and career advancement -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I'm+Shreyas+Prabhakar;Software+Engineer;Full-Stack+Developer;Blockchain+Enthusiast; AI & ML Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I%27m+Shreyas+Prabhakar;Software+Engineer;Full-Stack+Developer;Blockchain+Enthusiast;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
