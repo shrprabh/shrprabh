@@ -10,7 +10,7 @@
 <div align="center">
   <h1>
     <div align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I%27m+Shreyas+Prabhakar;" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I%27m+Shreyas+Prabhakar" alt="Typing SVG" />
     </div>
   </h1>
   
@@ -148,12 +148,12 @@ performance = {
 
 | Project | Tech Stack | Description | Impact |
 |:--------|:-----------|:------------|:-------|
-| **[Credence Learning Platform](https://github.com/shrprabh/Credence)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) | Full-stack educational platform with NLP-powered quiz engine and blockchain credential system | 🎓 Immutable NFT certificates |
-| **[Veritas Vitae DApp](https://github.com/shrprabh/Veritas-Vitae-DApp)** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) | Decentralized identity verification system using Program Derived Addresses | 🔒 Secure credential verification |
-| **[CanvasShield](https://github.com/shrprabh/CanvasShield)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Advanced detection toolkit for canvas fingerprinting and evercookie behaviors | 🛡️ Web privacy protection |
-| **[ArticulateAI](https://github.com/shrprabh/ArticulateAI)** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | Experimental chat application with advanced UX patterns and data persistence | 💬 Enhanced user experience |
-| **[StockPredictor-NeuralNet](https://github.com/shrprabh/StockPredictor-NeuralNet)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | LSTM-based time-series prediction system for financial markets | 📈 Predictive analytics |
-| **[BraTS-PolypSegmentation](https://github.com/shrprabh/BraTS-PolypSegmentation)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | Medical image segmentation using DUCK-Net architecture for polyp detection | 🏥 Healthcare AI |
+| **[Credence Learning Platform](https://github.com/shrprabh/Credence)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | Blockchain-verified education credentials | Innovative learning authentication |
+| **[Veritas Vitae DApp](https://github.com/shrprabh/Veritas-Vitae-DApp)** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | Self-sovereign identity solution | Privacy-preserving digital ID |
+| **[CanvasShield](https://github.com/shrprabh/CanvasShield)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Advanced detection tool for canvas fingerprinting | Enhanced web privacy |
+| **[ArticulateAI](https://github.com/shrprabh/ArticulateAI)** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | Real-time speech-to-notes conversion | 90% accuracy in transcription |
+| **[StockPredictor-NeuralNet](https://github.com/shrprabh/StockPredictor-NeuralNet)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ML-based stock trend prediction | 78% directional accuracy |
+| **[BraTS-PolypSegmentation](https://github.com/shrprabh/BraTS-PolypSegmentation)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | Medical imaging segmentation | 85% segmentation accuracy |
 
 ---
 
@@ -291,23 +291,24 @@ certifications:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrprabh&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=false" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrprabh&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrprabh&theme=algolia&hide_border=false" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrprabh&layout=compact&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&hide=css,html" alt="Most Used Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrprabh&layout=compact&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&hide=css,html" alt="Most Used Languages"/>
 </div>
 
 ### **Coding Challenge Performance**
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/pshreyasgowda1997?theme=nord&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" width="400"/>
-  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?id=shreyas_prabhakar" alt="GeeksForGeeks Stats" width="400"/>
+  
+  <!-- GeeksForGeeks Stats with alternative approach -->
+  <a href="https://auth.geeksforgeeks.org/user/shreyas_prabhakar/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Profile" height="40"/>
+  </a>
+  <p><strong>GeeksForGeeks:</strong> 100+ problems solved | 5th rank on TTU Leaderboard</p>
 </div>
 
 ---
