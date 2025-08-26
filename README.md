@@ -9,11 +9,9 @@
 
 <div align="center">
   <h1>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrprabh/shrprabh/main/.github/assets/shreyas-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrprabh/shrprabh/main/.github/assets/shreyas-dark.svg">
-      <img alt="Shreyas Prabhakar" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=false&random=false&width=400&height=60&lines=Shreyas+Prabhakar" />
-    </picture>
+    <div align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I%27m+Shreyas+Prabhakar;" alt="Typing SVG" />
+    </div>
   </h1>
   
   <h2>🚀 Research Engineer × Full-Stack Developer × AI Specialist</h2>
