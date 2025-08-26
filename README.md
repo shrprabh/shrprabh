@@ -72,7 +72,7 @@
 ## 💼 Professional Experience
 
 ### 🏛️ **Lawrence Berkeley National Laboratory** *— Graduate Research Assistant*
-**May 2024 - Present** • Berkeley, CA • *U.S. Department of Energy*
+**May 2024 - Present** • Berkeley, CA • *National Energy Research and Scientific Computing *
 
 ```typescript
 // Key Achievements
