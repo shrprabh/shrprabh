@@ -348,6 +348,10 @@ certifications:
 
 <br/><br/>
 
+## 🙏 Acknowledgments
+
+I'd like to express my gratitude to the mentors, colleagues, and the open-source community that have contributed to my growth as a software engineer.
+
 ---
 
 <p align="center">
@@ -356,3 +360,7 @@ certifications:
 </p>
 
 </div>
+
+---
+
+*"The best way to predict the future is to invent it." — Alan Kay*
