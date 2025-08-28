@@ -350,7 +350,7 @@ certifications:
 
 ## 🙏 Acknowledgments
 
-I'd like to express my gratitude to the mentors, colleagues, and the open-source community that have contributed to my growth as a software engineer.
+I'd like to express my gratitude to the mentors Drs. Dhruva Kulkarni, Scott Classen and Jack Deslippe and Gabor Torok, colleagues Corey Shan and Ujjwal Panthi @TTUHSC ,Disha,Uma Maheswari nad Menaka @Terralogic and Chetna Kadam @Infosys  and the open-source community that have contributed to my growth as a software engineer.
 
 ---
 
