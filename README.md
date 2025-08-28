@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td><strong>🎯 Current Focus</strong></td>
-    <td>High-Performance Computing research, AI/ML systems, and secure blockchain applications</td>
+    <td>  AI/ML systems, High-Performance Computing research and devlopment,and secure blockchain applications</td>
   </tr>
   <tr>
     <td><strong>🏢 Position</strong></td>
