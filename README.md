@@ -14,7 +14,7 @@
     </div>
   </h1>
   
-  <h2>🚀 Research Engineer × Full-Stack Developer × AI Specialist</h2>
+  <h2>🚀 Researcher × Full-Stack Developer × AI Enthusiast</h2>
   
   <p>
     <strong>Lawrence Berkeley National Laboratory</strong> • <strong>Texas Tech University</strong><br/>
