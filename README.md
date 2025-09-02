@@ -77,8 +77,9 @@
 ```typescript
 // Key Achievements
 const achievements = {
-  research: "Presented BilboMD (2024) and LDMS (2025) research posters representing DOE",
-  performance: "Built interactive widgets plotting 150+ supercomputer metrics → 80% efficiency gain",
+  research: "Presented BilboMD (2024) and LDMS (2025) research posters representing Department of Energy in United States",
+  performance: "Built and released a Perlmutter performance-profiling Python toolkit that maps Slurm job ID(s) workflows to 150+
+per-GPU/per-node metrics (e.g., GPU utilization memory) with interactive dashboards for fast bottleneck diagnosis.Coordinated with scientists to build a GitHub Actions CI/CD pipeline that builds, tests, and deploys 5 containerized microservices on Perlmutter, ensuring reliable inter-service communication and repeatable releases.",
   architecture: "Designed secure microservices-aligned account-management modules",
   impact: "Contributing to national-scale high-performance computing infrastructure"
 };
