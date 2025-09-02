@@ -298,7 +298,7 @@ certifications:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrprabh&layout=compact&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&hide=css,html" alt="Most Used Languages"/>
 </div>
-<!-- 
+
 ### **Coding Challenge Performance**
 
 <div align="center">
@@ -312,7 +312,7 @@ certifications:
 </div>
 
 ---
--->
+
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
