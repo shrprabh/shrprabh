@@ -351,7 +351,7 @@ certifications:
 
 ## 🙏 Acknowledgments
 
-I'd like to express my gratitude to the mentors, professors, parents and  the open-source community that have contributed to my growth as a software engineer.
+I'd like to express my gratitude to the mentors, professors, parents and  the open-source community that have contributed to my growth.
 
 ---
 
