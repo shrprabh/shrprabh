@@ -300,18 +300,6 @@ certifications:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrprabh&layout=compact&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&hide=css,html" alt="Most Used Languages"/>
 </div>
 
-### **Coding Challenge Performance**
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/pshreyasgowda1997?theme=nord&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" width="400"/>
-  
-  <!-- GeeksForGeeks Stats with alternative approach -->
-  <a href="https://auth.geeksforgeeks.org/user/shreyas_prabhakar/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Profile" height="40"/>
-  </a>
-  <p><strong>GeeksForGeeks:</strong> 100+ problems solved | 5th rank on TTU Leaderboard</p>
-</div>
-
 ---
 
 ## 🤝 Let's Connect & Collaborate
