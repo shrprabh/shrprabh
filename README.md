@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td><strong>🎯 Current Focus</strong></td>
-    <td>  AI/ML systems, High-Performance Computing research and devlopment,and secure blockchain applications</td>
+    <td>  AI/ML systems, High-Performance Computing research and development,and secure blockchain applications</td>
   </tr>
   <tr>
     <td><strong>🏢 Position</strong></td>
@@ -77,7 +77,6 @@
 ```typescript
 // Key Achievements
 const achievements = {
-  research: "Presented BilboMD (2024) and LDMS (2025) research posters representing Department of Energy in United States",
   performance: "Built and released a Perlmutter performance-profiling Python toolkit that maps Slurm job ID(s) workflows to 150+
   per-GPU/per-node metrics (e.g., GPU utilization memory) with interactive dashboards for fast bottleneck diagnosis.",
   architecture: "Designed secure microservices-aligned account-management modules",
