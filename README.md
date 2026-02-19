@@ -252,13 +252,19 @@ certifications:
       domain: "High-Performance Computing & AI"
       
   cloud_platforms:
+    - title: "AWS Certified Solutions Architect(SAA -C03)"
+      issuer: "Amazon"
+      domain: "Cloud Computing"
+
+    - title: "Amazon AI Practitioner"
+      issuer: "Amazon Web Services"
+      domain: "Artificial Intelligence"
+
     - title: "Microsoft Azure Fundamentals (AZ-900)"
       issuer: "Microsoft"
       domain: "Cloud Computing"
       
-    - title: "Amazon AI Practitioner"
-      issuer: "Amazon Web Services"
-      domain: "Artificial Intelligence"
+
       
   academic:
     - title: "Academic Excellence Awards (2nd, 3rd ranks)"
