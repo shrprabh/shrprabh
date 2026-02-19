@@ -14,7 +14,7 @@
     </div>
   </h1>
   
-  <h2> Computer Systems Engineer × Software Engineer × Web Developer  AI Enthusiast × Former Research Assistant from NERSC at LBL × Interest in Science </h2>
+  <h2> Computer Systems Engineer × Software Engineer × Web Developer  AI Enthusiast × Former Research Assistant from NERSC at LBNL × Interest in Science </h2>
   
   <p>
     <strong>Lawrence Berkeley National Laboratory</strong> • <strong>Texas Tech University</strong><br/>
