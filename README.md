@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td><strong>💼 Experience</strong></td>
-    <td>4+ years across enterprise software, telecom, healthcare, and research domains</td>
+    <td>6+ years across enterprise software, telecom, healthcare, and research domains</td>
   </tr>
   <tr>
     <td><strong>🌍 Location</strong></td>
