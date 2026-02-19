@@ -343,7 +343,7 @@ I'd like to express my gratitude to the mentors, professors, parents, and  the o
 ---
 
 <p align="center">
-  <em>"Building the future, one line of code at a time."</em><br/>
+  <em>“Work hard to build your dreams, acknowledge those who helped you, and trust that even at your lowest, you are never alone."</em><br/>
   <strong>Shreyas Prabhakar</strong> • Software Engineer & Researcher
 </p>
 
