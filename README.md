@@ -19,7 +19,6 @@ PostgreSQL • SQL Server • MongoDB • Docker • AWS • GCP • Azure
 
 ## Selected projects
 - Credence: https://github.com/shrprabh/Credence  
-- Veritas Vitae DApp: https://github.com/shrprabh/Veritas-Vitae-DApp  
 - CanvasShield: https://github.com/shrprabh/CanvasShield  
 - ArticulateAI: https://github.com/shrprabh/ArticulateAI  
 
