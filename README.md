@@ -15,7 +15,7 @@ Software Engineer • Full-Stack Developer • Interested in AI/ML & HPC
 ## Tech I use
 Python • C# • TypeScript • JavaScript 
 React • Angular • FastAPI • ASP.NET Core • Entity Framework Core
-PostgreSQL • SQL Server • MongoDB • Docker • AWS • GCP • Azure 
+PostgreSQL • SQL Server • MongoDB • Docker • AWS • GCP • Azure • Kafka • Rabbit MQ • Pentaho
 
 ## Selected projects
 - Credence: https://github.com/shrprabh/Credence  
